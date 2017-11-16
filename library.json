@@ -1,0 +1,17 @@
+{
+    "name": "WidgetVelocimeter",
+    "version": "1.0.0",
+    "keywords": "Widget,Velocimeter",
+    "description": "速度表盘应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetVelocimeter.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
